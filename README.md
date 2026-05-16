@@ -1,6 +1,6 @@
 # 202504-211V-final-fast-api
 
-sync libraries.
+Sincronizar librerias.
 
 ``` bash
 
@@ -8,7 +8,7 @@ uv sync
 
 ```
 
-Execute proyect. 
+Ejecutar el proyecto.
 
 ``` bash
 
